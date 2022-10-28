@@ -2,6 +2,8 @@
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo.
 İçerisinde bir adet README dosyası, bir adet de index.html barındırır.
 
+![Ekran Alıntısı](https://user-images.githubusercontent.com/116086983/198714975-ed562438-fdfe-4851-964f-061d829372be.PNG)
+
 
 ## Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
